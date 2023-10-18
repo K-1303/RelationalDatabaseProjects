@@ -1,5 +1,5 @@
 #!/bin/bash
-PSQL="psql -X --username=freecodecamp --dbname=salon --tuples-only -c"
+PSQL="psql -X --username=postgres --dbname=salon --tuples-only -c"
 
 echo -e "\n~~~~~ MY SALON ~~~~~"
 # main menu
